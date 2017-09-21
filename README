@@ -1,3 +1,0 @@
-A simple ncurses / python based game of life simulator.
-
-Can read in patterns in RLE format (multiple per run).
